@@ -1,0 +1,8 @@
+- [ ] Fix `MainActivity.kt` content
+- [ ] Rename and fix `repository/AIRepository.kt.kt`
+- [ ] Rename and fix `utils/Constants.kt.kt`
+- [ ] Rename `network/ApiClient.kt.kt`
+- [ ] Update `ApiService.kt` imports
+- [ ] Update `ApiClient.kt` imports and references
+- [ ] Update `MainViewModel.kt` imports (if needed)
+- [ ] Verify build with `./gradlew :app:assembleDebug`

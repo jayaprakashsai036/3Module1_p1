@@ -1,0 +1,4 @@
+- [x] Remove `org.jetbrains.kotlin.android` plugin from `app/build.gradle.kts`
+- [x] Remove `kotlinOptions` block from `app/build.gradle.kts`
+- [x] Verify Gradle Sync
+- [/] Verify build with `./gradlew assembleDebug`
